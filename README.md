@@ -1,1 +1,1 @@
-# alecnhall-gmail.com
+# JavaScript Project w/Rails Backend
